@@ -1,8 +1,7 @@
-# 🌍 Project 2: Global Superstore Sales Performance & Market Expansion Dashboard 
+# 🌍 Project 2: Sales Performance & Market Expansion in Retail (Global Superstore) Dashboard | Power BI 
 
-title = business question + domain + tools 
 **Domain:**  
-Sales Analytics (Sales Strategy Department)
+Sales Analytics in Retail (Sales Strategy Department)
 
 ![Image](https://github.com/user-attachments/assets/af75f445-54fb-4dbe-8967-082ceaf9d210)
 
