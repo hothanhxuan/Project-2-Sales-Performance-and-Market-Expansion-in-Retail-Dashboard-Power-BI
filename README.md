@@ -128,8 +128,6 @@ The analysis is based on three datasets:
 | `Person`    | `VARCHAR` | Name of the salesperson. |
 | `Region`    | `VARCHAR` | Geographic region where the salesperson operates. |
 
-</details>
-
 
 ### 🔗 Data Relationships & Model Design
 The Power BI data model follows a **fact–dimension structure** to support efficient analysis and reporting.
