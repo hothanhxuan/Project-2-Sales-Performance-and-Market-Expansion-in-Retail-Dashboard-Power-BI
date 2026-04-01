@@ -66,19 +66,22 @@ This project transforms raw transactional data into a decision-support Power BI 
 - **Source**: Kaggle
 - **Size**: The Orders table contains 51,290 records.
 - **Format**: CSV
-  
-The analysis is based on three datasets: 
 
-| Dataset | Description                                                  | Records  |
-|--------|---------------------------------------------------------------|----------|
-| Orders | Contains detailed transaction and customer information        | 51,290  |
-| People | Sales representatives by region                               | 13       |
-| Returns| Returned order records                                        | 1,100   |
+This dataset provides detailed information about ** international order transactions.** The business operates across multiple global markets, including **Asia-Pacific, Europe, and the Americas**. It allows for the analysis of business performance and consumer trends during the period from 2011 to 2014.
+
+The data focuses on key elements such as **customer information, shipping times, and the geographic location of each order**. Products are clearly categorized into **technology, furniture, and office supplies**, featuring well-known brands such as Apple, Samsung, and Canon.
+
+In addition, the dataset includes important financial indicators, such as sales revenue, costs, and overall profit, which support a deeper evaluation of business performance.
 
 Together, these datasets provide visibility into sales performance, people contribution, and operational risk through returns.
 
 ### 📊 Data structure 
-- 🛒 **Table 1: Orders**
+The analysis is based on three datasets:
+
+- 🛒 **Table 1: Orders**. Contains detailed transaction and customer information, with 51,290 records.
+
+<details>
+  <summary>See details</summary>
   
 | Column Name       | Data Type   | Description                              |
 |------------------|------------|------------------------------------------|
@@ -102,23 +105,29 @@ Together, these datasets provide visibility into sales performance, people contr
 | `Sales`        | `DECIMAL`   | Revenue generated from the order.       |
 | `Quantity`     | `INT`       | Number of items ordered.                |
 | `Profit`       | `DECIMAL`   | Profit earned from the order.           |
+<details>
 
+- 🔄 **Table 2: Returns**. Sales representatives by region, with 13 records. 
 
-- 🔄 **Table 2: Returns**
+<details>
+  <summary>See details</summary>
   
 | Column Name  | Data Type | Description |
 |--------------|-----------|-------------|
 | `Returned`   | `VARCHAR` | Indicates whether the order was returned (e.g., 'Yes' or 'No'). |
 | `Order ID`   | `VARCHAR` | Unique identifier for each order. |
-
+<details>
   
-- 👥 **Table 3: People**
+- 👥 **Table 3: People**. Returned order records, with 1,100 records.
+
+<details>
+  <summary>See details</summary>
   
 | Column Name | Data Type | Description |
 |-------------|-----------|-------------|
 | `Person`    | `VARCHAR` | Name of the salesperson. |
 | `Region`    | `VARCHAR` | Geographic region where the salesperson operates. |
-
+<details>
 
 ### 🔗 Data Relationships & Model Design
 The Power BI data model follows a **fact–dimension structure** to support efficient analysis and reporting.
