@@ -83,6 +83,7 @@ Together, these datasets provide visibility into sales performance, people contr
 
 <details>
   <summary>Click để mở</summary>
+  
 | Column Name       | Data Type   | Description                              |
 |------------------|------------|------------------------------------------|
 | `Order ID`      | `VARCHAR`   | Unique identifier for each order.       |
