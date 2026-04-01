@@ -1,6 +1,6 @@
 # 🌍 Project 2: Global Superstore Sales Performance & Market Expansion Dashboard 
 
-
+title = business question + domain + tools 
 **Domain:**  
 Sales Analytics (Sales Strategy Department)
 
