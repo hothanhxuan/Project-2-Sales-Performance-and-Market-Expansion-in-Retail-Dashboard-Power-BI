@@ -67,7 +67,7 @@ This project transforms raw transactional data into a decision-support Power BI 
 - **Size**: The Orders table contains 51,290 records.
 - **Format**: CSV
 
-This dataset provides detailed information about ** international order transactions.** The business operates across multiple global markets, including **Asia-Pacific, Europe, and the Americas**. It allows for the analysis of business performance and consumer trends during the period from 2011 to 2014.
+This dataset provides detailed information about **international order transactions**. The business operates across multiple global markets, including **Asia-Pacific, Europe, and the Americas**. It allows for the analysis of business performance and consumer trends during the period from 2011 to 2014.
 
 The data focuses on key elements such as **customer information, shipping times, and the geographic location of each order**. Products are clearly categorized into **technology, furniture, and office supplies**, featuring well-known brands such as Apple, Samsung, and Canon.
 
@@ -105,7 +105,7 @@ The analysis is based on three datasets:
 | `Sales`        | `DECIMAL`   | Revenue generated from the order.       |
 | `Quantity`     | `INT`       | Number of items ordered.                |
 | `Profit`       | `DECIMAL`   | Profit earned from the order.           |
-<details>
+
 
 - 🔄 **Table 2: Returns**. Sales representatives by region, with 13 records. 
 
@@ -116,7 +116,7 @@ The analysis is based on three datasets:
 |--------------|-----------|-------------|
 | `Returned`   | `VARCHAR` | Indicates whether the order was returned (e.g., 'Yes' or 'No'). |
 | `Order ID`   | `VARCHAR` | Unique identifier for each order. |
-<details>
+
   
 - 👥 **Table 3: People**. Returned order records, with 1,100 records.
 
@@ -127,7 +127,6 @@ The analysis is based on three datasets:
 |-------------|-----------|-------------|
 | `Person`    | `VARCHAR` | Name of the salesperson. |
 | `Region`    | `VARCHAR` | Geographic region where the salesperson operates. |
-<details>
 
 ### 🔗 Data Relationships & Model Design
 The Power BI data model follows a **fact–dimension structure** to support efficient analysis and reporting.
