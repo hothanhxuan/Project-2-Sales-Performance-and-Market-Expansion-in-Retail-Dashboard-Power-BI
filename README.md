@@ -15,9 +15,9 @@ Tools Used: Power BI
 1. [📌 Background & Overview](#-background--overview)  
 2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
 3. [🧠 Design Thinking Process](#-design-thinking-process)  
-4. [⚒️ Main Process](#️-main-process)  
-5. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
-6. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
+5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)  
+6. [✨ More information](#-more-information)
 
 ---
 
@@ -165,7 +165,7 @@ The Power BI data model follows a **fact–dimension structure** to support effi
 
 ---
 
-## 📌 More information 
+## ✨ More information 
 #### ✅ Analytical Capabilities
 This data model enables flexible slicing and filtering across:
 - Time
