@@ -166,6 +166,8 @@ The Power BI data model follows a **fact–dimension structure** to support effi
 
 
 ---
+
+## 📌 More information 
 #### ✅ Analytical Capabilities
 This data model enables flexible slicing and filtering across:
 - Time
