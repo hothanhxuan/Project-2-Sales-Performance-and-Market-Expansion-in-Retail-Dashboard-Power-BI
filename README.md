@@ -79,7 +79,9 @@ Together, these datasets provide visibility into sales performance, people contr
 The analysis is based on three datasets:
 
 - 🛒 **Table 1: Orders**. Contains detailed transaction and customer information, with 51,290 records.
-
+<details>
+  <summary>See details </summary>
+  
 | Column Name       | Data Type   | Description                              |
 |------------------|------------|------------------------------------------|
 | `Order ID`      | `VARCHAR`   | Unique identifier for each order.       |
@@ -102,6 +104,8 @@ The analysis is based on three datasets:
 | `Sales`        | `DECIMAL`   | Revenue generated from the order.       |
 | `Quantity`     | `INT`       | Number of items ordered.                |
 | `Profit`       | `DECIMAL`   | Profit earned from the order.           |
+
+</details>
 
 - 🔄 **Table 2: Returns**. Sales representatives by region, with 13 records.
 
