@@ -106,6 +106,7 @@ The analysis is based on three datasets:
 | `Quantity`     | `INT`       | Number of items ordered.                |
 | `Profit`       | `DECIMAL`   | Profit earned from the order.           |
 
+  <details>
 
 - 🔄 **Table 2: Returns**. Sales representatives by region, with 13 records. 
 
@@ -117,7 +118,8 @@ The analysis is based on three datasets:
 | `Returned`   | `VARCHAR` | Indicates whether the order was returned (e.g., 'Yes' or 'No'). |
 | `Order ID`   | `VARCHAR` | Unique identifier for each order. |
 
-  
+  <details>
+    
 - 👥 **Table 3: People**. Returned order records, with 1,100 records.
 
 <details>
@@ -128,7 +130,8 @@ The analysis is based on three datasets:
 | `Person`    | `VARCHAR` | Name of the salesperson. |
 | `Region`    | `VARCHAR` | Geographic region where the salesperson operates. |
 
-
+  <details>
+    
 ### 🔗 Data Relationships & Model Design
 The Power BI data model follows a **fact–dimension structure** to support efficient analysis and reporting.
 
