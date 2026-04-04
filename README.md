@@ -79,9 +79,6 @@ Together, these datasets provide visibility into sales performance, people contr
 The analysis is based on three datasets:
 
 - 🛒 **Table 1: Orders**. Contains detailed transaction and customer information, with 51,290 records.
-
-<details>
-  <summary>See details</summary>
   
 | Column Name       | Data Type   | Description                              |
 |------------------|------------|------------------------------------------|
@@ -105,32 +102,24 @@ The analysis is based on three datasets:
 | `Sales`        | `DECIMAL`   | Revenue generated from the order.       |
 | `Quantity`     | `INT`       | Number of items ordered.                |
 | `Profit`       | `DECIMAL`   | Profit earned from the order.           |
-
-  <details>
+<details>
 
 - 🔄 **Table 2: Returns**. Sales representatives by region, with 13 records. 
 
-<details>
-  <summary>See details</summary>
   
 | Column Name  | Data Type | Description |
 |--------------|-----------|-------------|
 | `Returned`   | `VARCHAR` | Indicates whether the order was returned (e.g., 'Yes' or 'No'). |
 | `Order ID`   | `VARCHAR` | Unique identifier for each order. |
 
-  <details>
     
 - 👥 **Table 3: People**. Returned order records, with 1,100 records.
-
-<details>
-  <summary>See details</summary>
   
 | Column Name | Data Type | Description |
 |-------------|-----------|-------------|
 | `Person`    | `VARCHAR` | Name of the salesperson. |
 | `Region`    | `VARCHAR` | Geographic region where the salesperson operates. |
 
-  <details>
     
 ### 🔗 Data Relationships & Model Design
 The Power BI data model follows a **fact–dimension structure** to support efficient analysis and reporting.
