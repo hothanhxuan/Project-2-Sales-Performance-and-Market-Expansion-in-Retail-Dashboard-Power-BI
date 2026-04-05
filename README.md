@@ -237,7 +237,7 @@ Order-level data shows that Canada executes many transactions with impressive ma
 
 *Conclusion: Canada achieves the highest profit margin by selling the right, high-margin products (Technology & Office Supplies), avoiding loss-making items (bulky Furniture or deep-discounted products), and executing individual transactions with outstanding profitability.*
 
-<details>
+</details>
 
 #### 🌍 EMEA Market Expansion Plan & Applying Canada’s Best Practices
 <details>
@@ -268,7 +268,7 @@ Facilitate knowledge-sharing between Nicole Hansen (Canada) and Larry Hughes (EM
 
 *Conclusion: The EMEA expansion is not just about revenue growth but “selective, profit-focused growth.” By prioritizing high-margin Technology and Office Supplies, minimizing loss-making Furniture, focusing on profitable customer segments, and leveraging Canada’s best practices, EMEA has the potential to become a new high-margin engine for Superstore rather than a low-margin revenue market.*
 
-<details>
+</details>
 
 #### ⚠️ Strategic Risks
 <details>
@@ -300,7 +300,7 @@ Apply Canada’s model via localized optimization:
 - Start with loss-making SKUs (Margin Detractors) in Turkey & Kazakhstan.
 - Gradually tighten product mix across EMEA once logistics, demand, and operations are under control.
 
-<details>
+</details>
 
 ---
 ## ✨ More information 
