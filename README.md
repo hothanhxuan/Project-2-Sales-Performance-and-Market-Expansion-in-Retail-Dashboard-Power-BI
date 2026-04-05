@@ -218,8 +218,10 @@ Superstore is showing strong and steady growth across all key financial metrics:
 ---
 ## 💡 Deep dive into Canada Insights for EMEA Market Expansion 
 #### ❔ Why Canada Has the Highest Profit Margin
+
 <details>
   <summary>See details </summary>
+
 Canada has the highest profit margin in the system (26.62%), more than double the company-wide average of 11.61%, thanks to several strategic factors:
 1. Optimized Product Mix
 Canada focuses revenue on high-margin categories while limiting low-margin items:
@@ -235,11 +237,14 @@ Order-level data shows that Canada executes many transactions with impressive ma
   - High-value orders: The market focuses on high-value transactions with low operational and management costs, maintaining record-high net margins without being eroded by small or loss-making orders.
 
 *Conclusion: Canada achieves the highest profit margin by selling the right, high-margin products (Technology & Office Supplies), avoiding loss-making items (bulky Furniture or deep-discounted products), and executing individual transactions with outstanding profitability.*
+
 <details>
 
 #### 🌍 EMEA Market Expansion Plan & Applying Canada’s Best Practices
+
 <details>
   <summary>See details </summary>
+
 Superstore’s EMEA region (Europe, Middle East & Africa) is growing rapidly (59.80% YoY), but its profit margin is low (5.45%). To turn EMEA into a high-margin market, the expansion plan should focus on selective growth and profitability, using lessons from Canada’s success.
 1. Growth Targets & Leadership
 - Revenue Growth: Maintain and accelerate high YoY growth (59.80%), the highest among all markets.
@@ -264,11 +269,14 @@ Facilitate knowledge-sharing between Nicole Hansen (Canada) and Larry Hughes (EM
 - Use Canada’s proven model to improve EMEA’s operating efficiency and profit per transaction.
 
 *Conclusion: The EMEA expansion is not just about revenue growth but “selective, profit-focused growth.” By prioritizing high-margin Technology and Office Supplies, minimizing loss-making Furniture, focusing on profitable customer segments, and leveraging Canada’s best practices, EMEA has the potential to become a new high-margin engine for Superstore rather than a low-margin revenue market.*
+
 <details>
 
 #### ⚠️ Strategic Risks
+
 <details>
   <summary>See details </summary>
+
 Applying Canada’s high-margin, selective-order model to EMEA (high growth, low margin) brings opportunities but also strategic risks:
 1. Growth vs. Profitability
 
@@ -294,6 +302,7 @@ Average system Return Rate: 4.68%.
 Apply Canada’s model via localized optimization:
 - Start with loss-making SKUs (Margin Detractors) in Turkey & Kazakhstan.
 - Gradually tighten product mix across EMEA once logistics, demand, and operations are under control.
+
 <details>
 
 ---
