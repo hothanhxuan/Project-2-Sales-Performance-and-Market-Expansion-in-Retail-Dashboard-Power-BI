@@ -17,7 +17,7 @@ Tools Used: Power BI
 3. [🧠 Design Thinking Process](#-design-thinking-process)  
 4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
 5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
-6. [💡 Deep dive into Canada Insights for EMEA Market Expansion](#deep-dive-into-canada-insights-for-emea-market-expansion) 
+6. [💡 Deep dive into Canada Insights for EMEA Market Expansion](#-deep-dive-into-canada-insights-for-emea-market-expansion)
 7. [✨ More information](#-more-information)
 
 ---
@@ -216,8 +216,11 @@ Superstore is showing strong and steady growth across all key financial metrics:
 *To conclude: Superstore should shift from a “growth-at-all-costs” strategy to a performance-driven growth approach. Reducing loss-making SKUs in the Tables category and replicating Canada’s high-margin model can help achieve a net profit margin above 15% next year.* 
 
 ---
+
 ## 💡 Deep dive into Canada Insights for EMEA Market Expansion 
 #### ❔ Why Canada Has the Highest Profit Margin
+
+*Canada achieves the highest profit margin by selling the right, high-margin products (Technology & Office Supplies), avoiding loss-making items (bulky Furniture or deep-discounted products), and executing individual transactions with outstanding profitability.*
 
 <details>
   <summary>See details </summary>
@@ -241,6 +244,9 @@ Order-level data shows that Canada executes many transactions with impressive ma
 </details>
 
 #### 🌍 EMEA Market Expansion Plan & Applying Canada’s Best Practices
+
+*The EMEA expansion is not just about revenue growth but “selective, profit-focused growth.” By prioritizing high-margin Technology and Office Supplies, minimizing loss-making Furniture, focusing on profitable customer segments, and leveraging Canada’s best practices, EMEA has the potential to become a new high-margin engine for Superstore rather than a low-margin revenue market.*
+
 <details>
   <summary>See details </summary>
 
@@ -272,6 +278,12 @@ Facilitate knowledge-sharing between Nicole Hansen (Canada) and Larry Hughes (EM
 </details>
 
 #### ⚠️ Strategic Risks
+
+✅ Recommendation
+Apply Canada’s model via localized optimization:
+- Start with loss-making SKUs (Margin Detractors) in Turkey & Kazakhstan.
+- Gradually tighten product mix across EMEA once logistics, demand, and operations are under control.
+
 <details>
   <summary>See details </summary>
 
@@ -296,10 +308,6 @@ EMEA serves ~1,100 customers, far more than Canada (153).
 Average system Return Rate: 4.68%.
 
 -> Risk: High-value orders (Copiers, Phones) can result in large negative impact if returned. Focusing on high-margin products without improving quality & delivery may erode profits faster than selling small office supplies.
-✅ Recommendation
-Apply Canada’s model via localized optimization:
-- Start with loss-making SKUs (Margin Detractors) in Turkey & Kazakhstan.
-- Gradually tighten product mix across EMEA once logistics, demand, and operations are under control.
 
 </details>
 
