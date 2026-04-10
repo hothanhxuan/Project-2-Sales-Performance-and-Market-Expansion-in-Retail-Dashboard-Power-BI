@@ -160,6 +160,7 @@ The Power BI data model follows a **fact–dimension structure** to support effi
 ![Image](https://github.com/user-attachments/assets/3d10b280-c536-4ca9-8ede-282955d9cde1)
 ![Image](https://github.com/user-attachments/assets/9de99fad-666b-4b06-b2d3-00dd3acb3935)
 ![Image](https://github.com/user-attachments/assets/2e393344-7688-4b07-b1e1-629b92ed56aa)
+![Image](https://github.com/user-attachments/assets/95179871-6603-46c6-8eba-d18ea26b7c18)
 
 ---
 
